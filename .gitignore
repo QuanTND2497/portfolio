@@ -1,0 +1,4 @@
+# Local documents and editor lock files
+*.docx
+.~*
+.vercel
